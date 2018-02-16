@@ -1,0 +1,20 @@
+1.Comparer les spécificités de la programmation C et C++ orienté-objet
+
+Le C est un langage procédural qui n'inclut de base aucune notion d'objet. 
+Le C++ reprend les bases du C mais ajoute toute cette dimension d'objet.
+L'optimisation est le dernier de nos soucis en C++ comparé au C.
+
+
+2.Expliquer la "vie" d'un objet en utilisant les termes : Classe, Objet, Constructeur,
+Destructeur, Méthode, Variable, Membre, Fonction, Attribut, Déclaration, Définition.
+
+La définition d'un objet permet de dire ce qui compose un objet (propriété, actions).
+Une classe décrit les caractéristiques des objets.
+Une méthode est une suite d'instructions qui manipule les caractéristiques et l'état d'un objet.
+Le constructeur est une méthode appelé automatiquement lors de la création d'un objet.
+Le destructeur est une méthode appelé automatiquement lors d'un constructeur.
+Une variable est un objet pouvant contenir des données qui peuvent modifier lors de l'execution du programme.
+Une fonction permet d'effectuer certaines tâches attribués a celle-ci. Elles peuvent être appeler a l'infini.
+Les attributs sont les variables qui constituent une classe.
+Une déclaration signifie que on déclare une variable grâce a son nom et son type.
+La définition permet au compilateur d'allouer de la mémoire pour stocker l'élement déclaré.
